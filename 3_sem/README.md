@@ -1,6 +1,6 @@
 ## Инвариативные работы:
-## [1.2](https://github.com/M-Labyrin/python_portfolio/blob/main/3_sem/ISR%201_2.py)
-## [1.3](https://github.com/M-Labyrin/python_portfolio/blob/main/3_sem/ISR%201_3.py)
+* [1.2](https://github.com/M-Labyrin/python_portfolio/blob/main/3_sem/ISR%201_2.py)
+* [1.3](https://github.com/M-Labyrin/python_portfolio/blob/main/3_sem/ISR%201_3.py)
 ## [1.4](https://github.com/M-Labyrin/python_portfolio/blob/main/3_sem/ISR%201_4.py)
 
 ## [2.1](https://github.com/M-Labyrin/python_portfolio/blob/main/3_sem/ISR%202_1.py)
